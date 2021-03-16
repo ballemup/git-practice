@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name: ballemup
 Age: 32
 Favorite Color: Yellow
+=======
+Name: Ballemup
+Age: 32
+Favorite Color: Blue
+>>>>>>> a2a3d75396246a58b0d389b231e5170792331eee
